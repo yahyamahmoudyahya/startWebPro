@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="890d052e-085f-44c3-8569-bc5b44962a0e" name="Default Changelist" comment="" />
+    <list default="true" id="890d052e-085f-44c3-8569-bc5b44962a0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_01_193420_create_students_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_01_193420_create_students_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/StudentSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/StudentSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +17,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -156,7 +166,10 @@
       <workItem from="1601585548807" duration="1144000" />
       <workItem from="1602063876639" duration="3178000" />
       <workItem from="1602085659194" duration="4317000" />
-      <workItem from="1602102483160" duration="599000" />
+      <workItem from="1602102483160" duration="620000" />
+      <workItem from="1602146099695" duration="8159000" />
+      <workItem from="1602173776941" duration="5298000" />
+      <workItem from="1602233146091" duration="13808000" />
     </task>
     <servers />
   </component>
@@ -164,10 +177,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="513" y="112" key="NewPhpClassDialog" timestamp="1601581120376">
+    <state x="513" y="112" key="NewPhpClassDialog" timestamp="1602146766226">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="513" y="112" key="NewPhpClassDialog/0.0.1366.736@0.0.1366.736" timestamp="1601581120376" />
+    <state x="513" y="112" key="NewPhpClassDialog/0.0.1366.736@0.0.1366.736" timestamp="1602146766226" />
     <state x="517" y="299" key="NewPhpFileDialog" timestamp="1601475112005">
       <screen x="0" y="0" width="1366" height="736" />
     </state>

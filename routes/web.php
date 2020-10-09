@@ -36,5 +36,7 @@ Route::group(['namespace'=>'Yahya'],function (){
 
 Route::resource('start','ResourceController'); // to implement all method in StartController class
 Route::resource('start1','StartController'); // to implement all method in StartController class
-
+Route::post('store','StoreStudent@store')->name('store');
+Route::get('creat','StoreStudent@creat');
+Route::get('demo','StoreStudent@demo');
 
